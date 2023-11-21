@@ -1,0 +1,12 @@
+.header__catalog {
+    width: 48px;
+    height: 48px;
+    padding: 12px 10px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.45);
+
+    background-image: url(../../../images/vector.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}

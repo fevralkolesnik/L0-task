@@ -1,0 +1,24 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/SegoeUI.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__conteiner/header__conteiner.css);
+@import url(../blocks/header/__conteiner/_type/header__conteiner_type_left.css);
+@import url(../blocks/header/__conteiner/_type/header__conteiner_type_rigth.css);
+@import url(../blocks/header/__catalog/header__catalog.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__search/header__search.css);
+@import url(../blocks/header/__input/header__input.css);
+@import url(../blocks/header/__search-button/header__search-button.css);
+@import url(../blocks/header/__icons/header__icons.css);
+@import url(../blocks/header/__icon/header__icon.css);
+@import url(../blocks/header/__icon-decription/header__icon-decription.css);
+@import url(../blocks/header/__basket/header__basket.css);
+@import url(../blocks/header/__basket-count/header__basket-count.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyrigth/footer__copyrigth.css);

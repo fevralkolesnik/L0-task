@@ -1,0 +1,15 @@
+.header__basket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: #F55123;
+    border-radius: 16px;
+
+    position: absolute;
+    width: 16px;
+    height: 16px;
+
+    top: 0;
+    right: 0;
+}
